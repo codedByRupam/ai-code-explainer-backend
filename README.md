@@ -8,7 +8,7 @@ A web-based AI tool that explains, debugs, and simplifies code in real-time. Sup
 
 ## 🔥 Features
 
-- 🧠 AI-powered code explanation (Python, Java, C++)
+- 🧠 AI-powered code explanation (Python, Java, C++,C, javascript)
 - 🛠 Code simplification and bug fixing
 - 🎤 Voice-based explanation using Web Speech API
 - 🔍 Real-time collaboration (via Firebase)
